@@ -1,3 +1,9 @@
+"""
+Project : Horoscope finder
+Author : Ajeet
+Date : 12/11/2017
+"""
+
 import urllib2
 from bs4 import BeautifulSoup
 import time
